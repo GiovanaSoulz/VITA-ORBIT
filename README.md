@@ -1,4 +1,4 @@
-# Orbital Health Monitor
+# VITA-ORBIT
 
 ## Integrantes
 
@@ -11,7 +11,7 @@
 
 # Sobre o Projeto
 
-O Orbital Health Monitor é uma API REST desenvolvida em Java com Spring Boot para monitoramento remoto da saúde de pessoas em ambientes extremos, astronautas em missões espaciais, rurais ou afetadas por eventos extremos.
+O VITA ORBIT é uma API REST desenvolvida em Java com Spring Boot para monitoramento remoto da saúde de pessoas em ambientes extremos, astronautas em missões espaciais, rurais ou afetadas por eventos extremos.
 
 A solução permite o cadastro de pessoas monitoradas, registro de indicadores clínicos, controle de medicamentos, gerenciamento de alertas de risco e autenticação segura utilizando JWT.
 
@@ -349,7 +349,21 @@ http://localhost:9090
 ✔ Classificação Automática de Risco
 
 ---
+Deploy da API 
 
-# Projeto Acadêmico
+https://orbital-health-monitor.onrender.com 
 
-Projeto desenvolvido para a disciplina de Advanced Business Development with .NET and Java da FIAP, aplicando conceitos de APIs REST, persistência de dados, segurança, documentação e modelagem orientada a objetos utilizando Spring Boot.
+Documentação Swagger 
+
+https://orbital-health-monitor.onrender.com/swagger-ui/index.html 
+
+Link do Postman 
+
+https://giovana-vieiras1302-3216039.postman.co/workspace/Giovana-Souza's-Workspace~71849833-8bbb-44ef-86ab-68a5a6d1328e/collection/49645015-b476a9a7-c21f-4a17-a199-38ad63ff86af?action=share&creator=49645015 
+
+Vídeo de Apresentação 
+
+https://youtu.be/HhdrqEq1c-o?si=r57dTLEvm_KXnQ9b 
+https://youtu.be/Lhs25gQ5Yoo?si=fa5m3GXzWCATPhh4 
+
+
